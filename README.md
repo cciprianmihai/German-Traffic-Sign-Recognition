@@ -47,25 +47,3 @@ source activate your-conda-environment
 ```sh
 jupyter notebook Traffic_Sign_Classifier.ipynb
 ```
-
-
-## Release History
-
-* 0.1.2
-    * Update README.md
-    * Modify the Traffic_Sign_Classifier.ipynb for loading the testing and training data
-    * Date 19 April 2017
-
-* 0.1.1
-    * Update network and optimize the parameters
-    * Add image histogram normalization
-    * Date 25 January 2017
-
-* 0.1.0
-    * The first proper release
-    * Date 24 January 2017
-
-
-[//]: # (References)
-[image0]: images/traffic_sign.png
-

@@ -1,0 +1,3 @@
+Here we will download the dataset and we put:
+	- train.p - pickle file with train dataset;
+	- test.p - pickle file with test dataset.
